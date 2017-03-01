@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //second one from dhanunjay
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
